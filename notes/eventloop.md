@@ -55,8 +55,7 @@ foo()
 
 The call stack will look like this. 
 
-![](/home/oem/.config/marktext/images/2023-01-23-13-55-18-image.png)
-
+<img src="https://github.com/darkstudy45/js_Dsa_notes/blob/main/images/foo.png" title="foo" alt="stack overflow" width="566">
 **ultimately there will be an error of maximum call stack size exceeded.**
 
 ## blocking .
