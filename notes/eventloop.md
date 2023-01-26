@@ -36,7 +36,7 @@ printsquare(4);
 
 The stack will look like this : 
 
-<img src="file:///home/oem/.config/marktext/images/2023-01-23-13-52-13-image.png" title="" alt="" width="566">
+<img src="https://github.com/darkstudy45/js_Dsa_notes/blob/main/images/1ststack.png" title="First stack" alt="It shows the program stack" width="566">
 
 In stack which called last will be exucuted first 
 
